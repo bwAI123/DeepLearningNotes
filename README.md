@@ -15,7 +15,7 @@ git add .
 
 git commit -m "xxx"
 
-git push -u orgin main
+git push -u origin main
 
 
 ```
